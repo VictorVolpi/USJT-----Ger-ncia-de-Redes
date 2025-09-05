@@ -1,5 +1,5 @@
-## UNIVERSIDADE SÃO JUDAS TADEU - USJT - Gerencia de Redes em Segurança
-Repositorio - Gerência e Segurança de Redes --- Teorico/Pratico
+## UNIVERSIDADE SÃO JUDAS TADEU → USJT → GERÊNICA E SEGURANÇAS DE REDES
+# Gerência e Segurança de Redes: Da Teoria à Prática
 
 ### 🟢 Atividade 1 → Analise de incidentes
 
@@ -9,6 +9,7 @@ Repositorio - Gerência e Segurança de Redes --- Teorico/Pratico
 ⏺︎ Controles de Acesso Físico e Lógico (biometria, cartão de acesso, etc.)<br>
 ⏺︎ Políticas de Segurança e Treinamento de Usuários<br>
 ⏺︎ Boas práticas para prevenção de erros humanos<br> 
+
 ⏺︎ Confira meu projeto no GitHub: [Analise de incidentes](https://github.com/VictorVolpi/USJT-----Ger-ncia-de-Redes/blob/main/An%C3%A1lise%20de%20Incidentes%20e%20A%C3%A7%C3%B5es%20Iniciais%20na%20Inovatech.pdf)<br>
 
 
@@ -50,7 +51,7 @@ Repositorio - Gerência e Segurança de Redes --- Teorico/Pratico
   ○ Relevância do AD na gestão corporativa.<br>
   ○ Benefícios superando as dificuldades de implementação.<br>
   
- ### ⏺︎ Confira meu projeto no GitHub: [Active Directory](https://github.com/VictorVolpi/USJT-----Ger-ncia-de-Redes/blob/main/Tudo%20sobre%20Active%20Directory.pdf)<br>
+  ⏺︎ Confira meu projeto no GitHub: [Active Directory](https://github.com/VictorVolpi/USJT-----Ger-ncia-de-Redes/blob/main/Tudo%20sobre%20Active%20Directory.pdf)<br>
 
 ### 🟢 Atividade 3 → Plano de Recuperação de Desastres em TI
 
@@ -60,6 +61,7 @@ Repositorio - Gerência e Segurança de Redes --- Teorico/Pratico
 ⏺︎ Impacto Financeiro de Desastres<br>
 ⏺︎ Confiabilidade da Informação<br>
 ⏺︎ Gestão de Responsabilidades<br>
+
 ⏺︎ Confira meu projeto no GitHub: [Plano de Recuperação de Desastre em TI](https://github.com/VictorVolpi/USJT-----Ger-ncia-de-Redes/blob/main/Plano%20de%20Recupera%C3%A7%C3%A3o%20de%20Desastres%20em%20TI.pdf)<br>
 
 ### 🟢 Atividade 4 → Union Software
@@ -72,4 +74,26 @@ Repositorio - Gerência e Segurança de Redes --- Teorico/Pratico
 ⏺︎ Sistemas Operacionais<br> 
 ⏺︎ Internet das Coisas (IoT) na Empresa<br>
 ⏺︎ Segurança e Eficiência Operacional<br>
+
 ⏺︎ Confira meu projeto no GitHub: [Union Software](https://github.com/VictorVolpi/USJT-----Ger-ncia-de-Redes/blob/main/Union%20Software%20Inova%C3%A7%C3%A3o%20em%20Desenvolvimento%20de%20Jogos%20Digitais.pdf)<br>
+
+### 🟢 Atividade 5 → Detecção de Vulnerabilidades em Aplicações Web.
+
+⏺︎ OWASP TOP 10 (2021)<br>
+  ○ Estudo das principais vulnerabilidades em aplicações web.<br>
+  ○ Estudo das principais vulnerabilidades em aplicações web.<br>
+  
+⏺︎ Ferramentas de Detecção de Vulnerabilidades em Aplicações Web<br>
+  ○ Objetivo da ferramenta (OWASP ZAP).<br>
+  ○ Funcionamento (proxy, interceptação e análise de tráfego).<br>
+  ○ Vantagens e desvantagens.<br>
+  ○ Facilidade de uso.<br>
+  ○ Tipos de vulnerabilidades que a ferramenta detecta.<br>
+  
+⏺︎ Prática em Segurança de Aplicações Web<br>
+   ○ Importância da identificação preventiva de falhas.<br>
+   ○ Papel dos testes automatizados e manuais.<br> 
+   ○ Impacto de falsos positivos e necessidade de conhecimento técnico.<br>
+
+⏺︎ Confira meu projeto no GitHub: [Detecção de Vulnerabilidades.](https://github.com/VictorVolpi/USJT-----Ger-ncia-de-Redes/blob/main/Ferramentas%20de%20Detec%C3%A7%C3%A3o%20de%20Vulnerabilidades.pdf)<br>
+
